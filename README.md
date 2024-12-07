@@ -1,10 +1,13 @@
 ## hcde-410-final
 
-### Preface
-I plan on exploring the relation between countrie's investment into AI and how it realtes to thier economic freedom. The motivation behind this research proposal stems from the recent emergence of AI, and I hope to find correlations between AI investment and the  countries history of economic prosperity. As we've learned in this course, human labor is a controversal backbone behind AI training, I think it would be interesting to look at the economic state of the countries who are heavily invested in AI technology to determine how thier wealth and job market factors into AI investment. In addition, I am particially interested in how a countries who rank high in respect for intellectual property correlates with a countries commitment to artifical intelligence from a governmental POV. I hope that this exploration will help me understand why certain countries are prioritizing AI more than others and how this relates to overall economic strategy. 
+### Abstract
+This study investigates the relationship between economic factors and global investments in Artificial Intelligence (AI) across the globe. Using two datasets—AI Global Impact and the Economic Freedom Index—we explore three key research questions: (1) **Does high investment in AI technologies correlate with a stronger or weaker economic freedom score across global countries?** (2) **How have national unemployment rates influenced efforts to create AI-related jobs and develop AI-driven solutions?** (3) **Does a government's respect for intellectual property influence thier efforts in AI research?** By merging and analyzing data, we identify trends and correlations through visualizations such as scatter plots, regression lines, and bar graphs. Findings suggest moderate correlations between economic freedom and AI investment, as well as between intellectual property respect and AI research funding. Additionally, countries with lower unemployment rates often demonstrate higher AI talent scores, highlighting potential economic conditions conducive to AI development. Limitations include dataset time gaps, potential confounding variables, and a restricted sample size, indicating the need for further research to draw more definitive conclusions. 
+
+1. **Does high investment in AI technologies correlate with a stronger or weaker economic freedom score across global countries?**
+2. **How have national unemployment rates influenced efforts to create AI-related jobs and develop AI-driven solutions?**
+3. **Does a government's respect for intellectual property influence thier efforts in AI research?**
 
 ### Datasets 
-
 **AI Global Impact (2022)**:
 (https://www.kaggle.com/datasets/katerynameleshenko/ai-index) 
 
